@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="songs">Songs</string>
+    <string name="icon_previous">icon_previous</string>
+    <string name="icon_pause">icon_pause</string>
+    <string name="icon_next">icon_next</string>
+    <string name="icon_play">icon_play</string>
+    <string name="textview">TextView</string>
+    <string name="img">img</string>
+</resources>
